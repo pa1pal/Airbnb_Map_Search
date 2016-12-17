@@ -1,5 +1,5 @@
 # ResponsiveMaps
-Maps with Bottom Horizontal slider.
+Google Maps with Bottom Horizontal slider developed using RecyclerView. It is a similar clone of Airbnb Room finder view.
 
 
 ![App GIF](https://raw.githubusercontent.com/pa1pal/ResponsiveMaps/master/screenshot/app_gif.gif)
@@ -11,3 +11,7 @@ Maps with Bottom Horizontal slider.
     <td><img src="https://raw.githubusercontent.com/pa1pal/ResponsiveMaps/master/screenshot/screenshot2.png"></td>
   </tr>
 </table>
+
+
+# Demo
+Demo apk is available in [Releases](https://github.com/pa1pal/ResponsiveMaps/releases/tag/v1.0)
